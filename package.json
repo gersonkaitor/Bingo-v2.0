@@ -1,0 +1,11 @@
+{
+  "name": "bingov2.0",
+  "version": "2.0.0",
+  "description": "Bingo App is an app using webpack, mongoose, and MongoDB.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gerson Kaitor",
+  "license": "ISC"
+}
